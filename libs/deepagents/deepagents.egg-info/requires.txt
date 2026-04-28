@@ -1,0 +1,6 @@
+langchain-core<2.0.0,>=1.2.21
+langsmith>=0.3.0
+langchain<2.0.0,>=1.2.11
+langchain-anthropic<2.0.0,>=1.4.0
+langchain-google-genai<5.0.0,>=4.2.1
+wcmatch
